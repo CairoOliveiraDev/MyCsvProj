@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.csproj.AssemblyReference.cache
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.AssemblyInfoInputs.cache
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.AssemblyInfo.cs
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cairo\Desktop\Codes\C#\MyCsvProj\obj\Debug\net7.0\MyCsvProj.MvcApplicationPartsAssemblyInfo.cache
